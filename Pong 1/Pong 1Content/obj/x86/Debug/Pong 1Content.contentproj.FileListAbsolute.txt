@@ -1,0 +1,2 @@
+Z:\Blog\#2 Pong\Pong 1\Pong 1\Pong 1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Google Drive\Tutorials\#2 Pong\Pong 1\Pong 1\Pong 1Content\obj\x86\Debug\ResolveAssemblyReference.cache

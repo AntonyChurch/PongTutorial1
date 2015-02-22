@@ -1,0 +1,18 @@
+Z:\Blog\#2 Pong\Pong 1\Pong 1\Pong 1\bin\x86\Debug\Pong 1.exe
+Z:\Blog\#2 Pong\Pong 1\Pong 1\Pong 1\bin\x86\Debug\Pong 1.pdb
+Z:\Blog\#2 Pong\Pong 1\Pong 1\Pong 1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Blog\#2 Pong\Pong 1\Pong 1\Pong 1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Blog\#2 Pong\Pong 1\Pong 1\Pong 1\obj\x86\Debug\Pong 1.exe
+Z:\Blog\#2 Pong\Pong 1\Pong 1\Pong 1\obj\x86\Debug\Pong 1.pdb
+Z:\Blog\#2 Pong\Pong 1\Pong 1\Pong 1\bin\x86\Debug\Content\Pong Background.xnb
+Z:\Blog\#2 Pong\Pong 1\Pong 1\Pong 1\bin\x86\Debug\Content\Paddle.xnb
+Z:\Blog\#2 Pong\Pong 1\Pong 1\Pong 1\bin\x86\Debug\Content\Pong Ball.xnb
+D:\Google Drive\Tutorials\#2 Pong\Pong 1\Pong 1\Pong 1\bin\x86\Debug\Content\Pong Background.xnb
+D:\Google Drive\Tutorials\#2 Pong\Pong 1\Pong 1\Pong 1\bin\x86\Debug\Content\Paddle.xnb
+D:\Google Drive\Tutorials\#2 Pong\Pong 1\Pong 1\Pong 1\bin\x86\Debug\Content\Pong Ball.xnb
+D:\Google Drive\Tutorials\#2 Pong\Pong 1\Pong 1\Pong 1\bin\x86\Debug\Pong 1.exe
+D:\Google Drive\Tutorials\#2 Pong\Pong 1\Pong 1\Pong 1\bin\x86\Debug\Pong 1.pdb
+D:\Google Drive\Tutorials\#2 Pong\Pong 1\Pong 1\Pong 1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Google Drive\Tutorials\#2 Pong\Pong 1\Pong 1\Pong 1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Google Drive\Tutorials\#2 Pong\Pong 1\Pong 1\Pong 1\obj\x86\Debug\Pong 1.exe
+D:\Google Drive\Tutorials\#2 Pong\Pong 1\Pong 1\Pong 1\obj\x86\Debug\Pong 1.pdb

@@ -1,0 +1,3 @@
+Content\Pong Background.xnb
+Content\Paddle.xnb
+Content\Pong Ball.xnb
